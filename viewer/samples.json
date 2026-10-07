@@ -1,0 +1,202 @@
+{
+  "samples": [
+    {
+      "file": "compton-paper.pdf",
+      "group": "documents",
+      "credit": "Chang-Hao Fang et al., Germanium Atomic Compton Scattering Measurements and ab initio Many-Body Calculations (arXiv:2506.03539)",
+      "source": "https://arxiv.org/abs/2506.03539",
+      "licence": "CC0 1.0 (the authors, on arXiv)",
+      "bytes": 5811243,
+      "sha256": "71112dda30a4659e3a1746a0d14b5bb62f7bddbdbfddf10672c38a2ad45c3f4b"
+    },
+    {
+      "file": "usgs-fact-sheet.pdf",
+      "group": "documents",
+      "credit": "U.S. Geological Survey, Fact Sheet 2025-3020: Young Explosive Eruptions from the Clear Lake Volcanic Field",
+      "source": "https://pubs.usgs.gov/fs/2025/3020/fs20253020.pdf",
+      "licence": "Public domain: a work of the U.S. Geological Survey (17 U.S.C. 105)",
+      "bytes": 5848483,
+      "sha256": "51400fc067b6f730de07964213cc322daabcb3cac79d4256766aa5a59228f2f4"
+    },
+    {
+      "file": "nps-report.docx",
+      "group": "documents",
+      "credit": "U.S. National Park Service, Natural Resource Condition Assessment (NRCA) report template for authors (2017)",
+      "source": "https://www.nps.gov/subjects/science/upload/NRCA-Report-Template-for-Authors.docx",
+      "licence": "Public domain: a work of the U.S. National Park Service (17 U.S.C. 105)",
+      "bytes": 267616,
+      "sha256": "2637d1e4bb0a93d0510b6c367b66e1b245cb41c4fe1a3b1aee2143efe879c46b"
+    },
+    {
+      "file": "demo-deck.pptx",
+      "group": "documents",
+      "credit": "exav: a deck made from the Købke and Hammershøi paintings and Potsdam's street register listed here (pictures, a native chart, a table, speaker notes)",
+      "source": "https://github.com/sylvinus/exav-samples",
+      "licence": "CC0 1.0: made for this demo from the public-domain and dl-de/zero files listed here",
+      "bytes": 748060,
+      "sha256": "6cd735246e128abf838eb154a86bf1b5323d4560af31b4ad7e8a070240268aeb"
+    },
+    {
+      "file": "lassen-map.pdf",
+      "group": "documents",
+      "credit": "U.S. National Park Service, Lassen Volcanic National Park map",
+      "source": "https://commons.wikimedia.org/wiki/File:NPS_lassen-volcanic-map.pdf",
+      "licence": "Public domain: a work of the U.S. National Park Service (17 U.S.C. 105)",
+      "bytes": 1245704,
+      "sha256": "5ef31b89df98963f4d98384fb9a3c751b6605962d2e251548d91135a9d575867"
+    },
+    {
+      "file": "energy-charts.xlsx",
+      "group": "documents",
+      "credit": "U.S. Energy Information Administration, Short-Term Energy Outlook chart gallery (October 2026)",
+      "source": "https://www.eia.gov/outlooks/steo/xls/chart-gallery.xlsx",
+      "licence": "Public domain: a work of the U.S. Energy Information Administration (17 U.S.C. 105)",
+      "bytes": 1681267,
+      "sha256": "1d6e1258985f8d2b72d9afc7199e25a719d48855c2377c0d08b24e4f08cc9997"
+    },
+    {
+      "file": "potsdam-streets.csv",
+      "group": "documents",
+      "credit": "Landeshauptstadt Potsdam, Straßenkataster (saved October 2026, without the geometry column)",
+      "source": "https://opendata.potsdam.de/explore/dataset/strassenkataster-potsdam/",
+      "licence": "Datenlizenz Deutschland Zero 2.0 (dl-de/zero-2.0): any use, without conditions",
+      "bytes": 226522,
+      "sha256": "da055c58cde28064d654e75ba1a2931beb214c321c736d7320d23fdf19e625c0"
+    },
+    {
+      "file": "kobke-osterbro.jpg",
+      "group": "images",
+      "credit": "Christen Købke, View of a Street in Østerbro outside Copenhagen. Morning Light (1836), KMS844",
+      "source": "https://open.smk.dk/artwork/image/KMS844",
+      "licence": "Public Domain Mark 1.0 (Statens Museum for Kunst, Copenhagen)",
+      "bytes": 2551788,
+      "sha256": "346f772239ef12c07854b6d919d16894a2f0b5d5559bcbfe55f7cbce1cc62d73"
+    },
+    {
+      "file": "hammershoi.png",
+      "group": "images",
+      "credit": "Vilhelm Hammershøi, Interior in Strandgade, Sunlight on the Floor (1901), KMS3696",
+      "source": "https://open.smk.dk/artwork/image/KMS3696",
+      "licence": "Public Domain Mark 1.0 (Statens Museum for Kunst, Copenhagen)",
+      "bytes": 3766073,
+      "sha256": "8a48e595279619aa999ee7963c2e228a0178030e3225ffa59bc40e2d60c0db49"
+    },
+    {
+      "file": "la-cour-beach.tif",
+      "group": "images",
+      "credit": "Janus la Cour, Beach (1889), KMS3403",
+      "source": "https://open.smk.dk/artwork/image/KMS3403",
+      "licence": "Public Domain Mark 1.0 (Statens Museum for Kunst, Copenhagen)",
+      "bytes": 3327680,
+      "sha256": "1654c29a039bbf32af2a9e2fc678ecd3381517b75f3cf5a6fe3be00ddbb34b15"
+    },
+    {
+      "file": "redon-orpheus.jp2",
+      "group": "images",
+      "credit": "Odilon Redon, Orpheus, Cleveland Museum of Art; converted to JPEG 2000",
+      "source": "https://commons.wikimedia.org/wiki/File:Odilon_Redon_-_Orpheus_-_1926.25_-_Cleveland_Museum_of_Art.tif",
+      "licence": "CC0 1.0 (Cleveland Museum of Art open access)",
+      "bytes": 431159,
+      "sha256": "ed3bafe1528bfffef3e8f003e43e13186dcbf75894bb010c8e83ad6884b82d3a"
+    },
+    {
+      "file": "potsdam.dwg",
+      "group": "cad",
+      "credit": "Landeshauptstadt Potsdam, Stadtkarte mit ALKIS, tile 364_5808",
+      "source": "https://opendata.potsdam.de/explore/dataset/stadtkarte-lika-potsdam-dwg/",
+      "licence": "Datenlizenz Deutschland Zero 2.0 (dl-de/zero-2.0): any use, without conditions",
+      "bytes": 1024156,
+      "sha256": "ebc5320173f45ffbd2c9e5a8bc681fb07403927301ff490cf4626dd675ea5277"
+    },
+    {
+      "file": "potsdam.dxf",
+      "group": "cad",
+      "credit": "Landeshauptstadt Potsdam, Stadtkarte mit ALKIS, tile 364_5808",
+      "source": "https://opendata.potsdam.de/explore/dataset/stadtkarte-lika-potsdam-dwg/",
+      "licence": "Datenlizenz Deutschland Zero 2.0 (dl-de/zero-2.0): any use, without conditions",
+      "bytes": 5632368,
+      "sha256": "b969c66a26b01b97d0beede5baac1bc17fdff759cd43ebe04fcbce665b816f17"
+    },
+    {
+      "file": "kit-fzk-haus.ifc",
+      "group": "3d",
+      "credit": "Institute for Automation and Applied Informatics (IAI) / Karlsruhe Institute of Technology (KIT), AC20-FZK-Haus",
+      "source": "https://www.ifcwiki.org/index.php?title=KIT_IFC_Examples",
+      "licence": "\"For unrestricted use\" (KIT's notice on ifcwiki.org, no formal licence); it asks for a source credit in publications, which is given here",
+      "bytes": 2570803,
+      "sha256": "70cc8ff245fc0894201d96496c031005a5cbd7a96b22d8a1b87c5a883fb77994"
+    },
+    {
+      "file": "kit-smiley-west.ifc",
+      "group": "3d",
+      "credit": "Institute for Automation and Applied Informatics (IAI) / Karlsruhe Institute of Technology (KIT), AC-20-Smiley-West-10-Bldg",
+      "source": "https://www.ifcwiki.org/index.php?title=KIT_IFC_Examples",
+      "licence": "\"For unrestricted use\" (KIT's notice on ifcwiki.org, no formal licence); it asks for a source credit in publications, which is given here",
+      "bytes": 6109213,
+      "sha256": "26734e67bdc0fd2ab30cb560bddc279a0a4f23eb4d28861509524e4bbe201c48"
+    },
+    {
+      "file": "wild-boar.stl",
+      "group": "3d",
+      "credit": "Statens Museum for Kunst, Royal Cast Collection: The Wild Boar, KAS2157; simplified to 120,000 triangles",
+      "source": "https://open.smk.dk/artwork/image/KAS2157",
+      "licence": "Public Domain Mark 1.0 (Statens Museum for Kunst, Copenhagen)",
+      "bytes": 6000084,
+      "sha256": "f2d7bade0dd6d9f726b20496dc402a94c09a25b5a494420440308f57ea09dc69"
+    },
+    {
+      "file": "vieux-paris.mp4",
+      "group": "media",
+      "credit": "Musée départemental Albert-Kahn, Vieux Paris (AI120157); converted to H.264",
+      "source": "https://commons.wikimedia.org/wiki/File:Vieux_Paris_-_AI120157.webm",
+      "licence": "CC0 1.0 (Musée départemental Albert-Kahn)",
+      "bytes": 5791689,
+      "sha256": "c3b39c4ec0648b478b15e6671c352c6be6a4f29a74bee09a13a782db274c2cf3"
+    },
+    {
+      "file": "folk-song-1957.wav",
+      "group": "media",
+      "credit": "Ro, ro till fiskeskär, Swedish folk song recorded by Sveriges Radio in 1957, Statens musikverk; the file's embedded CC BY 4.0 tag and XMP block removed, as Commons states CC0",
+      "source": "https://commons.wikimedia.org/wiki/File:Ro,_ro_till_fiskesk%C3%A4r_-_SMV_-_SVA_BB_5378_19.wav",
+      "licence": "CC0 1.0 (Statens musikverk's release of 2020-06-12, as stated on Wikimedia Commons)",
+      "bytes": 4635948,
+      "sha256": "53dadcfe526fcbd086a301e77f9fbbbe9ad613d3a66700f5854c6cd746c2e5ee"
+    },
+    {
+      "file": "chopin-valse.mp3",
+      "group": "media",
+      "credit": "Frédéric Chopin, Grande Valse Brillante op. 18, Musopen",
+      "source": "https://commons.wikimedia.org/wiki/File:Grande_Valse_Brilliante_Op.18_In_E_flat_major.mp3",
+      "licence": "CC0 1.0 (Musopen)",
+      "bytes": 6899712,
+      "sha256": "c083df3613ddfaaee3a2bba902a33750e8a51fd63b22c8903587b31611e4d2dc"
+    },
+    {
+      "file": "nested.zip",
+      "group": "archives",
+      "credit": "exav: a ZIP holding a 7z holding a tar.gz, made from four of the files listed here",
+      "source": "https://github.com/sylvinus/exav-samples",
+      "licence": "CC0 1.0: made for this demo from the public-domain and dl-de/zero files listed here",
+      "bytes": 3416292,
+      "sha256": "6397b43a2fd67b416d28bc03be8d935105b1ee873657c9cb5bfed6bc655658b7"
+    },
+    {
+      "file": "eckersberg.jxl",
+      "group": "unsupported",
+      "credit": "C.W. Eckersberg, A View through Three Arches of the Third Storey of the Colosseum (1815), KMS3123; the gallery's 2400 px JPEG, transcoded losslessly to JPEG XL (it decodes back to that JPEG bit for bit)",
+      "source": "https://open.smk.dk/artwork/image/KMS3123",
+      "licence": "Public Domain Mark 1.0 (Statens Museum for Kunst, Copenhagen)",
+      "bytes": 2531232,
+      "sha256": "256cf5643d9a8c70da16e97b1e39f755dda351313c2a418d71063978c935298a"
+    },
+    {
+      "file": "streets.geojson",
+      "group": "unsupported",
+      "credit": "Landeshauptstadt Potsdam, Straßenkataster, the first 150 streets as GeoJSON (saved October 2026)",
+      "source": "https://opendata.potsdam.de/explore/dataset/strassenkataster-potsdam/",
+      "licence": "Datenlizenz Deutschland Zero 2.0 (dl-de/zero-2.0): any use, without conditions",
+      "bytes": 663713,
+      "sha256": "e0c9687280060a39d21afeee3122227c1992603acb2f5669444dca84eca57323"
+    }
+  ]
+}
